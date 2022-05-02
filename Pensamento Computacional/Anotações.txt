@@ -1,0 +1,8 @@
+Conteúdo do curso:
+
+Pilares do Pensamento Computacional
+
+- Decomposição
+- Reconhecimento de Padrões
+- Abstração
+- Algoritimos 

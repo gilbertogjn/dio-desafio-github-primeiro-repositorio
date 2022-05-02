@@ -1,0 +1,11 @@
+Conteúdo do curso:
+
+Introdução a Lógica de Programação
+
+- Algorítimos e Pseudocódigo
+- Fluxograma variáveis e constantes
+- Tomada de Decisões e Expressões
+- Estrutura de Repetição
+- Desvios Condicionais
+- Laços de Repetição
+- Matriz e Vetores

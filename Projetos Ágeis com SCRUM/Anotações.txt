@@ -1,0 +1,10 @@
+Conteúdo do curso:
+
+Introdução a Lógica de Programação
+
+- Gestão de Projeto e SCRUM
+- Papéis e Responsabilidades
+- Cerimônias SCRUM
+- Product Owner
+- Planejamento de Tarefas
+- Rotinas de um Time Ágil
